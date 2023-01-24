@@ -39,7 +39,7 @@ diagonal principal, secundária, …
 10. Elaborar um programa que leia a ordem de uma matriz quadrada (mínimo de 3 e máximo de
 10) e leia valores inteiros e positivos para ela (pode utilizar a função aleatório). Após a leitura
 dos valores desta matriz, escrever na tela de maneira centralizada um menu de opções:
-a. Diagonal principal (DP)
+*a. Diagonal principal (DP)
 b. Diagonal secundária (DS)
 c. Elementos acima das diagonais
 d. Elementos abaixo das diagonais
