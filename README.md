@@ -36,17 +36,18 @@ colunas para as linhas. Escreva a matriz lida e a resultante.
 9. Considerando uma matriz quadrada, podemos identificar várias áreas, como por exemplo, a
 diagonal principal, secundária, …
 
-10. Elaborar um programa que leia a ordem de uma matriz quadrada (mínimo de 3 e máximo de
-10) e leia valores inteiros e positivos para ela (pode utilizar a função aleatório). Após a leitura
+10. Elaborar um programa que leia a ordem de uma matriz quadrada (mínimo de 3 e máximo de 10) 
+e leia valores inteiros e positivos para ela (pode utilizar a função aleatório). Após a leitura
 dos valores desta matriz, escrever na tela de maneira centralizada um menu de opções:
-*a. Diagonal principal (DP)
-*b. Diagonal secundária (DS)
-*c. Elementos acima das diagonais
-*d. Elementos abaixo das diagonais
-*e. Elementos acima da DP e abaixo da DS
-*f. Elementos abaixo da DP e acima da DS
-*g. Todos os elementos da matriz
-*h. Sair do programa
+* a. Diagonal principal (DP)
+* b. Diagonal secundária (DS)
+* c. Elementos acima das diagonais
+* d. Elementos abaixo das diagonais
+* e. Elementos acima da DP e abaixo da DS
+* f. Elementos abaixo da DP e acima da DS
+* g. Todos os elementos da matriz
+* h. Sair do programa
+
 Para cada uma destas opções, apresentar a soma dos elementos conforme a opção
 selecionada. 
 Após o cálculo, escrever a matriz, a soma correspondente e voltar ao menu para selecionar
